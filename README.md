@@ -27,4 +27,4 @@ How to use as Browser extension
 
 Visit Bornali Homepage
 ------------------------
-* Homepage: bornali.wikispaces.com
+* Homepage: bornalibd.wikispaces.com
