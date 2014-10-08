@@ -50,9 +50,9 @@ Contact Developer
 
 Visit Bornali Homepage
 ------------------------
-* Homepage: [bornalibd.wikispaces.com][3]
+* Homepage: [github.com/latifkabir/Bornali/wiki][3]
 
 
 [1]: https://addons.mozilla.org/en-US/firefox/addon/bornali/
 [2]: https://chrome.google.com/webstore/detail/bornali-english-to-bengal/lcljfjceikhjcnkfneencpmcpkcknabm
-[3]: http://bornalibd.wikispaces.com/
+[3]: http://github.com/latifkabir/Bornali/wiki
