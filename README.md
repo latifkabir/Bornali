@@ -38,14 +38,12 @@ Features
 
 Developer
 ---------
-Latiful Kabir Siplu
+Latiful Kabir
 
 Contact Developer
 ------------------
-* Find on facebook: fb.com/siplu
 * Find on Github: github.com/latifkabir
 * Find on LinkedIn: linkedin.com/in/latifkabir
-* Send feedback via e-mail: resonance.bd@gmail.com
 
 
 Visit Bornali Homepage
